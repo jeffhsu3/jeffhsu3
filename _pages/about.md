@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-This is Jeffrey Hsu's home on the web.
+I am a scientist interested in genetics, genomics, stem cells and novel and
+paradigm shifting ways to make health care more accessible.  
 
 Genetic Control of Gene Expression
 ======
+
 
 
