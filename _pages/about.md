@@ -12,8 +12,10 @@ redirect_from:
 I am a scientist interested in genetics, genomics, stem cells and novel and
 paradigm shifting ways to make health care more accessible.  
 
+
+
 ## Selected Publication
-###Genetic Control of Gene Expression
+### Genetic Control of Left Atrial Gene Expression Yields Insights into the Genetic Susceptibility for Atrial Fibrillation 
 <img src='/images/genecontrol.jpg'><br />
 Genome-wide association studies have identified 23 loci for atrial fibrillation
 (AF), but the mechanisms responsible for these associations, as well as the
