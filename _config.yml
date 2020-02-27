@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Jeffrey Hsu, PhD"
   avatar           : "profile.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Hey!"
+  location         : "US"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=jeffrey+hsu"
   googlescholar    : #"https://scholar.google.com/citations?user=jNB3-goAAAAJ&hl=en"
   email            : "jeff@ivynatal.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              :
+  uri              : "www.ivynatal.com"
   bitbucket        :
   codepen          :
   dribbble         :
